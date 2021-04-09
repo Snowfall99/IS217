@@ -13,7 +13,15 @@ For now, we only print the result in the commandline which will be optimized rec
 
 ![avatar](./pic/detection_result.jpg)
 
+I use Tkinter and tkMessageBox to display scan results.
+
 #### Back End
 *TZX, CZX*
 
-We add a machine learning algorithm for detection.
+We add machine learning algorithms(RandomForest && DecisionTree) for detection.
+
+#### Requirements
+- python2.7
+- clamtk
+- Tkinter
+- tkMessageBox

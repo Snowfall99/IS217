@@ -66,7 +66,7 @@ sub start_gui {
     $top_box->set_homogeneous( FALSE );
     $eb->add( $top_box );
 
-    $hb->set_title( _( 'Virus Scanner' ) );
+    $hb->set_title( _( 'Computer Virus Group Five' ) );
     $hb->set_decoration_layout( 'menu:minimize,close' );
     $hb->set_show_close_button( TRUE );
 
