@@ -231,7 +231,7 @@ sub add_config_panels {
         },
         {   link        => _( 'Scheduler' ),
             description => _( 'Schedule a scan or signature update' ),
-            image       => 'alarm',
+            image       => 'settings',
             button      => FALSE,
         },
     );
@@ -362,7 +362,7 @@ sub add_history_panels {
     my @data = (
         {   link        => _( 'History' ),
             description => _( 'View previous scans' ),
-            image       => 'view-list',
+            image       => 'alarm',
             button      => FALSE,
         },
         {   link        => _( 'Quarantine' ),
@@ -476,12 +476,12 @@ sub add_analysis_panels {
     my @ml_scan_data = (
         {   link        => _( 'Machine learning scan' ),
             description => _( 'Self-designed machine learning scan' ),
-            image       => 'document-new',
+            image       => 'document-brand-new',
             button      => FALSE,
         },
         {   link        => _( 'Machine learning scan directory' ),
             description => _( 'Self-designed machine learning scan directory' ),
-            image       => 'folder-documents',
+            image       => 'folder-documents-new',
             button      => FALSE,
         }  
     );

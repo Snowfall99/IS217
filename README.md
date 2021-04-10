@@ -24,4 +24,3 @@ We add machine learning algorithms(RandomForest && DecisionTree) for detection.
 - python2.7
 - clamtk
 - Tkinter
-- tkMessageBox
