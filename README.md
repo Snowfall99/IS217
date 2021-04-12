@@ -24,3 +24,8 @@ We add machine learning algorithms(RandomForest && DecisionTree) for detection.
 - python2.7
 - clamtk
 - Tkinter
+
+## Something that we can optimise after learning from other groups
+- [ ] Tkinter GUI optimization
+- [ ] Seek for other dataset for training more efficient models
+- [ ] Use a mixed method for detection
